@@ -81,11 +81,11 @@
     "expect": "1.16.0",
     "mocha": "2.4.5",
     "mockery": "1.5.1",
-    "react": "^0.13.3",
+    "react": "^15.6.2",
     "sinon": "1.17.3"
   },
   "peerDependencies": {
-    "react": "^0.13.3"
+    "react": "^15.6.2"
   },
   "browserify": {
     "transform": [
